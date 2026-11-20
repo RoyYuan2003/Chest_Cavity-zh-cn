@@ -6,7 +6,7 @@
 
 给 [Chest Cavity（胸腔）](https://modrinth.com/mod/chest-cavity) 的简体中文汉化，共 **371 个键**，覆盖 **1.16.2 ~ 1.20.1** 全部已发布分支。
 
-> Chest Cavity 本体**从来没有官方中文**，也没有任何社区汉化提交到 CFPA。这是第一份完整汉化。
+> Chest Cavity 本体**无官方中文**，本汉化已提交到 CFPA，审核通过后可通过i18n拉取。
 
 ## 下载
 
@@ -38,10 +38,9 @@
 | 英文 | 中文 | 说明 |
 |---|---|---|
 | Chest Cavity / Organ | 胸腔 / 器官 | 模组名与可安装物件 |
-| Cleaver | 菜刀 | 与 Farmer's Delight 的小刀区分 |
 | Organ Rejection | 排异反应 | 移植医学术语，非「器官排斥」 |
 | Organ Meat | 脏器肉 | 与可安装的「器官」区分 |
-| Rich Sausage | 浓郁香肠 | 饱和度高、更耐饿，不是「富有」 |
+| Rich Sausage | 浓郁香肠 | 因使用脏器肉制作，考虑可能指气味浓郁，不是「富有」 |
 | Mini Sausage / Sausage Skin | 小香肠 / 肠衣 | 食品工业标准词 |
 | Crystalsynthesis | 晶合作用 | 仿「光合作用」，指靠末地水晶充能 |
 | Hydroallergenic / Hydrophobia | 恐水过敏 / 恐水症 | 前者掉血，后者传送逃跑 |
@@ -79,8 +78,6 @@ CFPA 的 [Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-M
 ```
 projects/assets/chestcavity/lang/zh_cn.json
 ```
-
-仓库里的 `i18n/` 目录就是按这个路径摆好的，直接复制过去即可提 PR。文件已通过校验：合法 JSON、UTF-8 无 BOM、`%s` 占位符与原版逐一对应。
 
 ## 更新日志
 
