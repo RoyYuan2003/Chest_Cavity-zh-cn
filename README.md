@@ -4,7 +4,7 @@
 [![Chest Cavity](https://img.shields.io/badge/Chest%20Cavity-2.10%20~%202.17-c0392b)](https://modrinth.com/mod/chest-cavity)
 [![License](https://img.shields.io/badge/License-CC0--1.0-lightgrey)](LICENSE)
 
-给 [Chest Cavity（胸腔）](https://modrinth.com/mod/chest-cavity) 的简体中文汉化，共 **371 个键**，覆盖 **1.16.2 ~ 1.20.1** 全部已发布分支。
+[Chest Cavity（胸腔）](https://modrinth.com/mod/chest-cavity) 的简体中文汉化，共 **371 个键**，覆盖 **1.16.2 ~ 1.20.1** 全部已发布分支。
 
 > Chest Cavity 本体**无官方中文**，本汉化已提交到 CFPA，审核通过后可通过i18n拉取。
 
