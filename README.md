@@ -38,10 +38,9 @@
 | 英文 | 中文 | 说明 |
 |---|---|---|
 | Chest Cavity / Organ | 胸腔 / 器官 | 模组名与可安装物件 |
-| Organ Rejection | 排异反应 | 移植医学术语，非「器官排斥」 |
+| Organ Rejection | 排异反应 | 移植医学术语 |
 | Organ Meat | 脏器肉 | 与可安装的「器官」区分 |
-| Rich Sausage | 浓郁香肠 | 因使用脏器肉制作，考虑可能指气味浓郁，不是「富有」 |
-| Mini Sausage / Sausage Skin | 小香肠 / 肠衣 | 食品工业标准词 |
+| Rich Sausage | 浓郁香肠 | 因使用脏器肉制作，考虑可能指气味浓郁 |
 | Crystalsynthesis | 晶合作用 | 仿「光合作用」，指靠末地水晶充能 |
 | Hydroallergenic / Hydrophobia | 恐水过敏 / 恐水症 | 前者掉血，后者传送逃跑 |
 
